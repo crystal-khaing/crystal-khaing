@@ -13,7 +13,7 @@
 
 # crystal khaing
 
-*studying math and cs @ uni · building stuff · love music & coffee!*
+*mathematical & physical sciences @ university of toronto · data science · software development*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=math+and+physical+sciences+%26+statistics+student;math+olympiad+%7C+AIME+qualifier;coding+projects)](https://git.io/typing-svg)
 
@@ -23,7 +23,7 @@
 
 ### about
 
-uni student into math, neural networks, and building things. outside of that: piano, rubik's cubes (20+)
+Undergraduate student focusing on math, cs, and neural networks. Experience in client-side interface architecture, algorithmic optimization, and quantitative research
 
 ---
 
@@ -76,5 +76,5 @@ scores real estate investment potential 1–100 across five dimensions: valuatio
 ---
 
 <div align="center">
-<sub>always learning</sub>
+<sub>quantum patet omnibus</sub>
 </div>
