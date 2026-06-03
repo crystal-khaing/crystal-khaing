@@ -15,7 +15,7 @@
 
 *studying math and cs @ uni · building stuff · love music & coffee!*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=math+and+physical+sciences+%26+statistics+student;math+olympiad+%7C+AIME+qualifier;coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=math+and+physical+sciences+%26+statistics+student;math+olympiad+%7C+AIME+qualifier;coding+projects)](https://git.io/typing-svg)
 
 </div>
 
