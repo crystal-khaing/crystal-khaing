@@ -20,12 +20,14 @@
 </div>
 
 ---
+<!--
 
 ### about
 
 Undergraduate student focusing on the intersection of mathematics and neural networks. Experience in client-side interface architecture, algorithmic optimization, and quantitative analysis. 
 
 ---
+-->
 
 ### stack
 
