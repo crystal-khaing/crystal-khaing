@@ -1,10 +1,4 @@
-## Hi there 👋
-
 <!--
-**crystal-khaing/crystal-khaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -19,7 +13,7 @@ Here are some ideas to get you started:
 
 # crystal khaing
 
-*math olympiad nerd · builder · myanmar*
+*uni student · math and physical sciences · cs minor*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=data+science+%26+statistics+student;math+olympiad+%7C+AIME+qualifier;building+things+that+matter)](https://git.io/typing-svg)
 
@@ -29,9 +23,7 @@ Here are some ideas to get you started:
 
 ### about
 
-high schooler from myanmar, heading to university for data science or statistics. i love math, neural networks, and building things with code. outside of that — piano, rubik's cubes (20+), and raising money for people who need it.
-
-> *"life has attacked me with a lot of lemons — but honestly? i love myself a lemonade."*
+high schooler, heading to university for mathematical and physical sciences, statistics, data science, and cs. i love math, neural networks, and building things with code. outside of that — piano, rubik's cubes (20+), and raising money for people who need it.
 
 ---
 
@@ -46,23 +38,12 @@ high schooler from myanmar, heading to university for data science or statistics
 
 ---
 
-### stats
-
-<div align="center">
-
-![Crystal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crystal-khaing&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crystal-khaing&layout=compact&theme=graywhite&hide_border=true)
-
-</div>
-
----
-
 ### projects
 
 <details>
 <summary><b>⌨️ keyflow — typing speed test</b></summary>
 <br>
-a clean, minimal typing speed test with real-time WPM and accuracy tracking. random word generation, light/dark mode, no frameworks.
+a clean, minimal typing speed test with real-time WPM and accuracy tracking. random word generation, light/dark mode.
 
 **stack:** HTML · CSS · Vanilla JS
 
@@ -85,14 +66,14 @@ scores real estate investment potential 1–100 across five dimensions: valuatio
 
 ### beyond code
 
-- 🌏 founder & president of **Bridge To Burma** — raised 1M+ baht for humanitarian relief
-- 📐 math olympiads — ranked 5th in myanmar, AIME qualifier, SUMaC 2025
-- 🧠 HRP research — neural networks, backpropagation & optimization
+- 🌏 **Bridge To Burma** — raised 1M+ baht for humanitarian relief with friends
+- 📐 math olympiads — ranked 7th in country - 2023, AIME qualifier, UKMT SMC full score, SUMaC 2025
+- 🧠 research project — neural networks, backpropagation & optimization
 - 📰 outreach officer at **Young Scientists Journal**
 - 🏔️ duke of edinburgh gold award
 
 ---
 
 <div align="center">
-<sub>always building · always learning</sub>
+<sub>always learning</sub>
 </div>
