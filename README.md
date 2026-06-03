@@ -14,3 +14,85 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+# crystal khaing
+
+*math olympiad nerd · builder · myanmar*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=data+science+%26+statistics+student;math+olympiad+%7C+AIME+qualifier;building+things+that+matter)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### about
+
+high schooler from myanmar, heading to university for data science or statistics. i love math, neural networks, and building things with code. outside of that — piano, rubik's cubes (20+), and raising money for people who need it.
+
+> *"life has attacked me with a lot of lemons — but honestly? i love myself a lemonade."*
+
+---
+
+### stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+
+---
+
+### stats
+
+<div align="center">
+
+![Crystal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crystal-khaing&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crystal-khaing&layout=compact&theme=graywhite&hide_border=true)
+
+</div>
+
+---
+
+### projects
+
+<details>
+<summary><b>⌨️ keyflow — typing speed test</b></summary>
+<br>
+a clean, minimal typing speed test with real-time WPM and accuracy tracking. random word generation, light/dark mode, no frameworks.
+
+**stack:** HTML · CSS · Vanilla JS
+
+🔗 [live demo](https://crystal-khaing.github.io/typing-speed-test) · [repo](https://github.com/crystal-khaing/typing-speed-test)
+
+</details>
+
+<details>
+<summary><b>🏠 property investment scorer</b></summary>
+<br>
+scores real estate investment potential 1–100 across five dimensions: valuation, growth, cash flow, risk, and livability. built during a real estate tech internship in 2024.
+
+**stack:** React · Vite · Tailwind · Recharts
+
+🔗 [live demo](https://crystal-khaing.github.io/property-scorer) · [repo](https://github.com/crystal-khaing/property-scorer)
+
+</details>
+
+---
+
+### beyond code
+
+- 🌏 founder & president of **Bridge To Burma** — raised 1M+ baht for humanitarian relief
+- 📐 math olympiads — ranked 5th in myanmar, AIME qualifier, SUMaC 2025
+- 🧠 HRP research — neural networks, backpropagation & optimization
+- 📰 outreach officer at **Young Scientists Journal**
+- 🏔️ duke of edinburgh gold award
+
+---
+
+<div align="center">
+<sub>always building · always learning</sub>
+</div>
