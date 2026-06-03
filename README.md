@@ -71,9 +71,6 @@ scores real estate investment potential 1–100 across five dimensions: valuatio
 - ⟡ math olympiads - ranked 7th in country - 2023, AIME qualifier, UKMT SMC full score, SUMaC 2025 📐
 - ⟡ research project - neural networks, backpropagation & optimization 🧠
 - ⟡ outreach officer at **Young Scientists Journal** 📰
-- ⟡ duke of edinburgh gold award 🏔️
-- ⟡ nonprofit - **Bridge To Burma** — raised 1M+ baht for humanitarian relief with friends
-
 
 ---
 
