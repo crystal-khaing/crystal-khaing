@@ -13,7 +13,7 @@
 
 # crystal khaing
 
-*uni student · math and physical sciences · cs minor*
+*studying math and cs @ uni · building stuff · love music & coffee! *
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=data+science+%26+statistics+student;math+olympiad+%7C+AIME+qualifier;building+things+that+matter)](https://git.io/typing-svg)
 
@@ -23,7 +23,7 @@
 
 ### about
 
-high schooler, heading to university for mathematical and physical sciences, statistics, data science, and cs. i love math, neural networks, and building things with code. outside of that — piano, rubik's cubes (20+), and raising money for people who need it.
+high schooler into math, neural networks, and building things. outside of that — piano, rubik's cubes (20+), and raising money for people who need it.
 
 ---
 
@@ -41,7 +41,7 @@ high schooler, heading to university for mathematical and physical sciences, sta
 ### projects
 
 <details>
-<summary><b>⌨️ keyflow — typing speed test</b></summary>
+<summary><b>✦ ⌨️ keyflow — typing speed test</b></summary>
 <br>
 a clean, minimal typing speed test with real-time WPM and accuracy tracking. random word generation, light/dark mode.
 
@@ -52,7 +52,7 @@ a clean, minimal typing speed test with real-time WPM and accuracy tracking. ran
 </details>
 
 <details>
-<summary><b>🏠 property investment scorer</b></summary>
+<summary><b>✦ 🏠 property investment scorer</b></summary>
 <br>
 scores real estate investment potential 1–100 across five dimensions: valuation, growth, cash flow, risk, and livability. built during a real estate tech internship in 2024.
 
@@ -66,11 +66,12 @@ scores real estate investment potential 1–100 across five dimensions: valuatio
 
 ### beyond code
 
-- 🌏 **Bridge To Burma** — raised 1M+ baht for humanitarian relief with friends
-- 📐 math olympiads — ranked 7th in country - 2023, AIME qualifier, UKMT SMC full score, SUMaC 2025
-- 🧠 research project — neural networks, backpropagation & optimization
-- 📰 outreach officer at **Young Scientists Journal**
-- 🏔️ duke of edinburgh gold award
+- ⟡ math olympiads - ranked 7th in country - 2023, AIME qualifier, UKMT SMC full score, SUMaC 2025 📐
+- ⟡ research project - neural networks, backpropagation & optimization 🧠
+- ⟡ outreach officer at **Young Scientists Journal** 📰
+- ⟡ duke of edinburgh gold award 🏔️
+- ⟡ nonprofit - **Bridge To Burma** — raised 1M+ baht for humanitarian relief with friends
+
 
 ---
 
