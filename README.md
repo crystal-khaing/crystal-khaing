@@ -23,7 +23,7 @@
 
 ### about
 
-high schooler into math, neural networks, and building things. outside of that — piano, rubik's cubes (20+), and raising money for people who need it.
+uni student into math, neural networks, and building things. outside of that: piano, rubik's cubes (20+)
 
 ---
 
@@ -41,7 +41,7 @@ high schooler into math, neural networks, and building things. outside of that �
 ### projects
 
 <details>
-<summary><b>✦ ⌨️ keyflow — typing speed test</b></summary>
+<summary><b>⌨️ keyflow — typing speed test</b></summary>
 <br>
 a clean, minimal typing speed test with real-time WPM and accuracy tracking. random word generation, light/dark mode.
 
@@ -52,7 +52,7 @@ a clean, minimal typing speed test with real-time WPM and accuracy tracking. ran
 </details>
 
 <details>
-<summary><b>✦ 🏠 property investment scorer</b></summary>
+<summary><b>🏠 property investment scorer</b></summary>
 <br>
 scores real estate investment potential 1–100 across five dimensions: valuation, growth, cash flow, risk, and livability. built during a real estate tech internship in 2024.
 
