@@ -68,7 +68,7 @@ scores real estate investment potential 1–100 across five dimensions: valuatio
 
 ### beyond code
 
-- ⟡ math olympiads - ranked 7th in country - 2023, AIME qualifier, UKMT SMC full score, SUMaC 2025 📐
+- ⟡ math olympiads - AIME qualifier, UKMT SMC perfect scorer, SUMaC 2025 📐
 - ⟡ research project - neural networks, backpropagation & optimization 🧠
 - ⟡ outreach officer at **Young Scientists Journal** 📰
 
